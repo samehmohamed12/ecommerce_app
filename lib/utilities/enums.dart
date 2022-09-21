@@ -1,0 +1,5 @@
+enum AuthFormType {
+
+  login,
+  register
+}
